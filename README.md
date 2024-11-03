@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MrIceRam
+- 👀 I’m interested in IT
+- 🌱 I’m currently learning MIREA
+- 📫 How to reach me Telegram
