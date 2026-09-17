@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrIceRam
+- 👋 Hi, I’m [@MrIceRam](https://mriceram.github.io/website/)
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning MIREA
-- 📫 How to reach me Telegram
+- 🌱 I’m currently learning [MIREA](https://www.mirea.ru/)  
+- 📫 How to reach me [Telegram](https://mriceram.github.io/website/)  
